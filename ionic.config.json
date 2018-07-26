@@ -1,0 +1,7 @@
+{
+  "name": "fashik-wp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
